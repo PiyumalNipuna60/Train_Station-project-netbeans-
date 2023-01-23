@@ -1,1 +1,8 @@
 /Train_Station/build/
+
+consol.log("Hello World);
+
+funtion main(){
+consol.log(1);
+}
+main();
